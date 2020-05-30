@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c38efa76-4bd5-4bcd-85b1-7b34b42863b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML/page1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/page2.html" afterDir="false" />
+    <list default="true" id="c38efa76-4bd5-4bcd-85b1-7b34b42863b5" name="Default Changelist" comment="Created project, started HTML task.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +35,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590840557347</updated>
-      <workItem from="1590840560927" duration="1431000" />
+      <workItem from="1590840560927" duration="2305000" />
     </task>
+    <task id="LOCAL-00001" summary="Created project, started HTML task.">
+      <created>1590842141990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590842141990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created project, started HTML task." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created project, started HTML task." />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="275" key="#Notifications" timestamp="1590841162654">
@@ -64,9 +75,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590841862609" />
-    <state x="387" y="226" key="run.anything.popup" timestamp="1590841632939">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1590842723498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="387" y="226" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590841632939" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590842723498" />
+    <state x="474" y="200" key="git4idea.merge.GitPullDialog" timestamp="1590842852040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="200" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1590842852040" />
+    <state x="387" y="226" key="run.anything.popup" timestamp="1590842103430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="226" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590842103430" />
   </component>
 </project>
