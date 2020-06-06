@@ -5,19 +5,79 @@
     <title>Страница 1</title>
 </head>
 <body>
+<h1>Товары для животных</h1>
+<hr>
+<h2>Корм</h2>
+<form action="select1.php" method="post">
+    <label for="selectFeed">Выбрать тип корма:</label>
+        <select id="selectFeed">
+            <option value="1">Сухой корм</option>
+            <option value="2">Влажный корм</option>
+            <option value="3">И сухой, и влажный</option>
+        </select>
+    <p>
+        <input type="submit" value="Отправить">
+    </p>
+</form>
+<h2>Игрушки</h2>
+<form action="select2.php" method="post">
+    <p>
+        <label for="selectToys">Выбрать игрушки для питомца:</label><br><br>
+        <select id="selectToys" size="3" multiple name="toys[]">
+            <option disabled>Выберите игрушки:</option>
+            <option value="1">Мышь</option>
+            <option selected value="2">Мячик</option>
+            <option value="3">Перья</option>
+        </select>
+    </p>
+    <p>
+        <input type="submit" value="Отправить">
+    </p>
+</form>
+<h2>Ваш питомец</h2>
+<form action="select3.php" method="post">
+    <p>
+        <label>
+            <input checked="checked" type="radio" name="pet" value="1">Кошка
+        </label><br>
+        <label>
+            <input type="radio" name="pet" value="2">Собака
+        </label><br>
+        <label>
+            <input type="radio" name="pet" value="3">Другой
+        </label>
+    </p>
+    <p><input type="submit" value="Отправить"></p>
+</form>
+<h2>Оставить комментарий</h2>
+<form action="textarea.php" method="post">
+    <p>
+        <label for="text">Введите ваш комментарий:</label><br><br>
+        <textarea id="text" rows="10" cols="45" name="text" placeholder="Ваш комментарий"></textarea>
+    </p>
+    <p>
+        <input type="submit" value="Отправить">
+    </p>
+</form>
+<br>
+<form action="sendData.php" method="post">
+    <label for="clientName">Ваше имя</label>
+    <input type="text" placeholder="Ваше имя" id="clientName" name="clientName"/>
+    <label for="clientPhone">Ваш телефон</label>
+    <input type="text" placeholder="Телефон" id="clientPhone" name="clientPhone"/>
+    <button type="submit">Отправить заявку</button>
+</form>
+<br>
+<form action="subscribe.php" method="post">
+    <label>
+        Подписаться на рассылку
+        <input type="checkbox"/><br><br>
+        <input type="submit" value="Отправить">
+    </label>
+</form>
+<br>
+Напишите нам: <a href="mailto:test@demo.com">test@demo.com</a><br>
+Позвоните нам: <a href="tel:+79131231234">+79131231234</a><br><br>
+<a href="page2.html">Ссылка на страницу 2</a><br><br>
 </body>
-
-
-
 </html>
-
-
-
-
-
-
-Сделать страницу с формой, в которой будут следующие
-виды элементов: текстовые поля ввода, многострочные
-поля ввода, чекбоксы, радио-баттоны, выпадающие списки
-с единичным и множественным выбором, кнопка. И
-сделайте ссылку на страницу 2
