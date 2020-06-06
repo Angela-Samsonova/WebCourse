@@ -20,19 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c38efa76-4bd5-4bcd-85b1-7b34b42863b5" name="Default Changelist" comment="Created project, started HTML task.">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/WebCourse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/cats1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/cats2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/select1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/select2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/select3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/sendData.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/subscribe.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML/textarea.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/cats1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/cats1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML/cats2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/images/cats2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/page1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTML/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML/page2.html" afterDir="false" />
     </list>
@@ -63,6 +53,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\тс\IdeaProjects\WebCourse\HTML\images" />
+      <recent name="C:\Users\тс\IdeaProjects\WebCourse\HTML" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\тс\IdeaProjects\WebCourse\HTML" />
     </key>
@@ -76,7 +70,7 @@
       <updated>1590840557347</updated>
       <workItem from="1590840560927" duration="9411000" />
       <workItem from="1591104929395" duration="19148000" />
-      <workItem from="1591428478345" duration="5258000" />
+      <workItem from="1591428478345" duration="6589000" />
     </task>
     <task id="LOCAL-00001" summary="Created project, started HTML task.">
       <created>1590842141990</created>
@@ -92,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590842876063</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created project, started HTML task.">
+      <created>1591435898313</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591435898313</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,17 +136,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1590841862609" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1590843361182">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1591435901886">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590843361182" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591435901886" />
     <state x="474" y="200" key="git4idea.merge.GitPullDialog" timestamp="1590843055838">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="474" y="200" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1590843055838" />
-    <state x="387" y="226" key="run.anything.popup" timestamp="1591201130812">
+    <state x="387" y="226" key="run.anything.popup" timestamp="1591443581756">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="387" y="226" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591201130812" />
+    <state x="387" y="226" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591443581756" />
   </component>
 </project>
